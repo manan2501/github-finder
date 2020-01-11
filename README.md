@@ -1,3 +1,6 @@
+# This is the Phase 1 of Github Finder.  Cutterntly I am working on Phase 2.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
